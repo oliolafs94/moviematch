@@ -1,4 +1,4 @@
-package oliolafsson.moviematch
+package com.example.moviemaker
 
 import io.flutter.embedding.android.FlutterActivity
 
